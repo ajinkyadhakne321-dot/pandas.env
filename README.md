@@ -1,2 +1,2 @@
 # pandas.env
-learning pandas and working on datasets from gaggle
+learning pandas and working on datasets from kaggle
